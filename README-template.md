@@ -24,8 +24,8 @@ You will find 3 screenshhots with the final result in the ./screenshots folder. 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Cip28/Splitter-calculator
+- Live Site URL: https://cip28.github.io/Splitter-calculator/
 
 ## My process
 
